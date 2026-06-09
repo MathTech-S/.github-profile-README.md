@@ -297,12 +297,6 @@ To build the world's leading platform for Algorithm Engineering, Digital Twin Te
 ### 🚀 MathTech
 
 Building the Future of Intelligent Engineering & Scientific Discovery
-
-</div>
----
-
-
-<div align="center">
 ### Shivam Singh
 **Founder & CEO — MathTech**
 
@@ -316,3 +310,5 @@ Building the future of:
 📊 Intelligent Simulation
 
 </div>
+
+
